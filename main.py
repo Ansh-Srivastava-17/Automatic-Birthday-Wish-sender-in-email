@@ -6,8 +6,8 @@ os.chdir(r"D:\Personal Folder\projects\Automate Birthday Wishing")
 # os.mkdir("testing") 
 
 # Enter your authentication details
-GMAIL_ID = 'sriv.ansh05@gmail.com'
-GMAIL_PSWD = 'ansh0504'
+GMAIL_ID = 'YOUR GMAIL'
+GMAIL_PSWD = 'GMAIL PASSWORD'
 
 
 def sendEmail(to, sub, msg):
